@@ -1,4 +1,4 @@
-let rok = 2021;
+let rok = 2025;
 let metoda = 100;
 let klauzule = 0.05;
 let obvod = 0;
