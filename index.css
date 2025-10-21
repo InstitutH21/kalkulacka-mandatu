@@ -1,0 +1,43 @@
+#chart {
+    margin: 0 auto;
+    max-width: 900px;
+  }
+  
+  .highcharts-credits {
+    visibility: hidden;
+  }
+  
+  #logo {
+    margin: 0 auto;
+    max-width: 200px;
+  }
+  
+  #_table {
+    margin: 0 auto;
+    max-width: 900px;
+  }
+  
+  #tableDiv {
+    margin: 0 auto;
+    max-width: 900px;
+    max-height: 400px;
+    overflow-y: auto;
+  }
+  
+  td {
+    text-align: center;
+  }
+  
+  th {
+    text-align: center;
+  }
+  
+  .popisek {
+    width: 23mm;
+    display: inline;
+  }
+  
+  .prepinace {
+    max-width: 900px;
+  }
+  
