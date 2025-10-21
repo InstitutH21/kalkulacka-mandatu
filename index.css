@@ -1,6 +1,6 @@
 #chart {
     margin: 0 auto;
-    max-width: 900px;
+    max-width: 1200px;
   }
   
   .highcharts-credits {
@@ -14,12 +14,12 @@
   
   #_table {
     margin: 0 auto;
-    max-width: 900px;
+    max-width: 1200px;
   }
   
   #tableDiv {
     margin: 0 auto;
-    max-width: 900px;
+    max-width: 1200px;
     max-height: 400px;
     overflow-y: auto;
   }
@@ -38,6 +38,6 @@
   }
   
   .prepinace {
-    max-width: 900px;
+    max-width: 1200px;
   }
   
